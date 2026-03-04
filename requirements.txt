@@ -1,0 +1,16 @@
+# HuggingFace Transformers
+transformers==4.43.0
+
+# NumPy 1.x 系列，避免 PyTorch/NumPy 冲突
+numpy==1.26.0
+
+# OpenCV，用于图像处理
+opencv-python==4.8.1.78
+
+# 进度条显示
+tqdm==4.66.1
+
+# 编辑距离计算
+editdistance==0.6.2
+
+sentencepiece

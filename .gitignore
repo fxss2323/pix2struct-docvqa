@@ -1,0 +1,21 @@
+# ...existing code...
+
+# 数据/训练产物/预训练权重（建议不要直接进 Git）
+data/
+datasets/
+pretrained/
+checkpoints/
+runs/
+wandb/
+
+# 常见大文件
+*.npy
+*.pt
+*.ckpt
+*.bin
+*.zip
+*.7z
+*.tar
+
+# 字体（如需字体请改用可再分发的开源字体）
+assets/fonts/
